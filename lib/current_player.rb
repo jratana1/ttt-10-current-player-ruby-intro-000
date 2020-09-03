@@ -4,6 +4,7 @@ def turn_count(board)
     if input == 'X'
       counter += 1
     end
-  counter
+
   end
+  counter
   end
